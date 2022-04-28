@@ -4,11 +4,11 @@ Using starter code to create an application called Note Taker that can be used t
 
 <h2> Technologies Used </h2>
 
-<img width="80" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
+<img width="60" alt="badge2" src="https://img.shields.io/badge/-JavaScript-blue">
 
-<img width="55" alt="badge3" src="https://img.shields.io/badge/-HTML-red">
+<img width="40" alt="badge3" src="https://img.shields.io/badge/-HTML-red">
 
-<img width="60" alt="badge4" src="https://img.shields.io/badge/-CSS-orange">
+<img width="35" alt="badge4" src="https://img.shields.io/badge/-CSS-orange">
 
 <img width="80" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow">
 
