@@ -12,9 +12,9 @@ Using starter code to create an application called Note Taker that can be used t
 
 <img width="80" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow">
 
-<img width="60" alt="badge6" src="https://img.shields.io/badge/-Heroku-green">
+<img width="50" alt="badge6" src="https://img.shields.io/badge/-Heroku-green">
 
-<img width="65" alt="badge7" src="https://img.shields.io/badge/-Insomnia-brightgreen">
+<img width="60" alt="badge7" src="https://img.shields.io/badge/-Insomnia-brightgreen">
 
 
 
