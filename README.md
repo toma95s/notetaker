@@ -10,7 +10,7 @@ Using starter code to create an application called Note Taker that can be used t
 
 <img width="35" alt="badge4" src="https://img.shields.io/badge/-CSS-orange">
 
-<img width="80" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow">
+<img width="65" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow">
 
 <img width="50" alt="badge6" src="https://img.shields.io/badge/-Heroku-green">
 
