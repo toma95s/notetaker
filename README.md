@@ -10,7 +10,15 @@ Using starter code to create an application called Note Taker that can be used t
 <img width="25" alt="badge4" src="https://img.shields.io/badge/-CSS-orange"> 
 <img width="70" alt="badge5" src="https://img.shields.io/badge/-Package.Json-yellow"> <img width="50" alt="badge6" src="https://img.shields.io/badge/-Heroku-green"> 
 <img width="60" alt="badge7" src="https://img.shields.io/badge/-Insomnia-brightgreen">
+<br>
 
+<h2> Code Snippet </h2>
+
+<img width="441" alt="Screen Shot 2022-04-28 at 6 19 06 PM" src="https://user-images.githubusercontent.com/101033224/165871602-5d156c84-0058-40d9-ab64-3badc1db2f8f.png">
+
+
+Here you can see code snippets of Middleware for parsing JSON and urlencoded form data. Code snippet for GET route for homepage. The request object (req) and the response object(res).
+<br>
 
 
 <h2> License </h2>
