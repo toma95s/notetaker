@@ -24,6 +24,8 @@ Using starter code to create an application called Note Taker that can be used t
 Here you can see code snippets of Middleware for parsing JSON and urlencoded form data. Code snippet for GET route for homepage. The request object (req) and the response object(res).
 <br>
 
+<img width="550" alt="Screen Shot 2022-04-28 at 8 32 04 PM" src="https://user-images.githubusercontent.com/101033224/165881497-a7b7f29a-edee-401d-b50c-af904eb6f6a1.png">
+
 
 <h2> License </h2>
 <img width="80" alt="badge1" src="https://img.shields.io/badge/License-MIT-lightgrey">
