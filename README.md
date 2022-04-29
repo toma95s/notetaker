@@ -1,8 +1,8 @@
 <h1> Note Taker </h1>
 
-<img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple>https://toma95s.github.io/notetaker/
+<img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple> https://toma95s.github.io/notetaker/
 
-<img width="80" alt = githublink src = https://img.shields.io/badge/-GitHub%20Link-pink>https://github.com/toma95s/notetaker
+<img width="80" alt = githublink src = https://img.shields.io/badge/-GitHub%20Link-pink> https://github.com/toma95s/notetaker
 
 Using starter code to create an application called Note Taker that can be used to write and save notes. This application uses Express.js back end and will save and retrieve note data from a JSON file. 
 
