@@ -1,6 +1,6 @@
 <h1> Note Taker </h1>
 
-<h3> Heroku Link </h3> https://serene-waters-18927.herokuapp.com/notes
+<h5> Heroku Link </h5> https://serene-waters-18927.herokuapp.com/notes
 
 <img width="80" alt = DeployedLink src =https://img.shields.io/badge/-Deployed%20Link-purple> https://toma95s.github.io/notetaker/
 
